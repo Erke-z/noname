@@ -1,0 +1,12 @@
+.container {
+    max-width: 400px;
+    margin: 50px auto;
+    text-align: center;
+}
+.explain {
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+input, button {
+    margin: 10px 0;
+}
